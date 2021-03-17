@@ -1,0 +1,19 @@
+miNombre = "Gero"
+miMejorAmigo = "Carlitos"
+lugarEnQueNosConocimos = "Mi Granja"
+saborHeladoFavorito = "Chocolate"
+enviarCodigo = "Sistemas Underground"
+compañerosFacu = """Mica, Agus, Massi, Nico, Tincho, Mario, Mateo, Tobi, Eli, Fede, Erai, Lu, Lauti
+ Supra y Agus Aron"""
+print("Mi nombre es:")
+print(miNombre)
+print("Mi mejor amigo es:")
+print(miMejorAmigo)
+print("Nos conocimos en:")
+print(lugarEnQueNosConocimos)
+print("Mi sabor de helado preferido es:")
+print(saborHeladoFavorito)
+print("Este codigo va a ser enviado a:")
+print(enviarCodigo)
+print("Mis compañeros de la facu son:")
+print(compañerosFacu)
